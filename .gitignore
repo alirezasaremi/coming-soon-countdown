@@ -1,0 +1,17 @@
+# OS and Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary or Log Files
+*.log
+*.tmp
+
+# Dependency directories (if applicable)
+# Uncomment the following line if you use npm for front-end packages
+# node_modules/
+
+# Build artifacts (if you have a build process)
+# dist/
+# build/
